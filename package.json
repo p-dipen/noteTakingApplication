@@ -1,0 +1,17 @@
+{
+  "name": "notetakingproject",
+  "version": "1.0.0",
+  "description": "To start the project you need to use npm `npm init`",
+  "main": "index.js",
+  "bin": {
+    "note": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dipen-parihar",
+  "license": "MIT",
+  "dependencies": {
+    "yargs": "^17.7.2"
+  }
+}
