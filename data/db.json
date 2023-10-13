@@ -1,7 +1,12 @@
 {
   "notes": [
-    "New Note",
-    "Second Note",
-    ""
+    {
+      "id": 1,
+      "note": "this is updated object"
+    },
+    {
+      "id": 2,
+      "note": "this is updated object 2"
+    }
   ]
 }
