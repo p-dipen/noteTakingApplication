@@ -1,2 +1,11 @@
 To start the project you need to use npm
-`npm init`
+
+`npm install`
+
+`npm link`
+
+if facing any error
+`npm link -f`
+
+then start server
+`note web`
